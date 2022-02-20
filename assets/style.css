@@ -1,0 +1,63 @@
+body {
+    background-image: url("https://wallpaperaccess.com/full/3026910.jpg");
+    background-color: #F7C5D3;
+    background-size: cover;
+   }
+
+#purple {
+    background-color: #F7C5D3;
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+#tudor {
+    margin-top: 1%;
+}
+
+#arjun {
+    display: none;
+}
+
+#rukzi {
+    display: none;
+}
+
+#winter {
+    display: none;
+}
+
+/* #F7C5D3,#44FF00,#FFE300,#11FFE3,#07C1F4,#F7C5D3,#44FF00,#FFE300; */
+
+
+.arrow {
+    border: solid black;
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+  }
+
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+  }
+
+
+  #arjunMessage {
+    display: none;
+}
+
+#rukziMessage {
+    display: none;
+}
+
+#wintaMessage {
+    display: none;
+}
